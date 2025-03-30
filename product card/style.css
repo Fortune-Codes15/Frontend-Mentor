@@ -17,10 +17,12 @@ body {
   width: 100%;
   height: 100%;
   border-radius: 10px 10px 0 0;
+  user-select: none;
 }
 
 .product-container {
   padding: 10px;
+  overflow: hidden;
 }
 
 .product-content {
@@ -138,7 +140,6 @@ button:hover {
 
   .product-content {
     flex-direction: row;
-    height: 481px;
   }
 
   .product-details {
