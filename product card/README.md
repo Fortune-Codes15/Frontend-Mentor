@@ -69,16 +69,8 @@ While working on this project i found out about the useful html markup calle pic
 
 I want to focus more on css and and use the concepts in which i have learnt from it to create responsive and beautiful designs responsive design skills. At the moment i am quite comfortable using flex-box and grid to create responsive and beautiful layouts.
 
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for The. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@FortuneCodes](https://www.twitter.com/fortuneCodes);
 - LinkedIn - [Fortune Foluso](https://www.linkedin.com/);
