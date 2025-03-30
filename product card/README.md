@@ -71,6 +71,6 @@ I want to focus more on css and and use the concepts in which i have learnt from
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@FortuneCodes](https://www.twitter.com/fortuneCodes);
-- LinkedIn - [Fortune Foluso](https://www.linkedin.com/);
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Fortune-Codes15)
+- Twitter - [@FortuneCodes](https://www.twitter.com/https:/fortune_codes);
+- LinkedIn - [Fortune Foluso](https://www.linkedin.com/in/fortune-foluso-45583b358/);
