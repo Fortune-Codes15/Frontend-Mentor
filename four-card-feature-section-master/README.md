@@ -24,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Fortune-Codes15/Frontend-Mentor/tree/master/four-card-feature-section-master)
-- Live Site URL: [Add live site URL here](https://https://card-feature-ten.vercel.app/)
+- Live Site URL: [Add live site URL here](https://(https://card-feature-ten.vercel.app/))
 
 ## My process
 
