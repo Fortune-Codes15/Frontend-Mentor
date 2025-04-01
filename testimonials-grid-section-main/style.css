@@ -45,7 +45,7 @@ main {
   max-width: 1024px;
   margin: 0 auto;
   padding: .8rem .6rem;
-  margin-top: 5rem;
+  margin-top: 10rem;
   grid-auto-columns: max-content;
 }
 
